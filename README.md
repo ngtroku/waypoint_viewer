@@ -7,7 +7,7 @@ Waypointsを簡易的に可視化するツール
 
 # How to use
 ```
-git clone
+git clone https://github.com/ngtroku/waypoint_viewer.git
 cd (cloned repository path)
 python3 ./waypoint_viewer.py (waypoints file path)
 ```
