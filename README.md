@@ -15,3 +15,7 @@ python3 ./waypoint_viewer.py (waypoints file path)
 ```
 python3 ./waypoint_viewer.py ./sample.csv
 ```
+### Result
+<div align="center">
+  <img src="sample_result.png" width="600" />
+</div>
