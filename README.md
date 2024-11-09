@@ -1,2 +1,17 @@
 # waypoint_viewer
-To watch waypoints
+Waypointsを簡易的に可視化するツール
+
+# Prerequisites
+- python3
+- matplotlib
+
+# How to use
+```
+git clone
+cd (cloned repository path)
+python3 ./waypoint_viewer.py (waypoints file path)
+```
+## Example
+```
+python3 ./waypoint_viewer.py ./sample.csv
+```
